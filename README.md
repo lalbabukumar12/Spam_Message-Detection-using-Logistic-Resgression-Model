@@ -12,4 +12,4 @@ Then, we use TF-IDF vectorization to convert text into numerical form and apply 
 
 The model is evaluated using metrics such as accuracy, confusion matrix, precision, recall, and F1-score.
 It can also take custom input messages and predict whether they are spam or not.
-     *****************************************************
+    
